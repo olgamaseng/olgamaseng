@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer Student</h3>
 
 <h3>🔭 About Me </h3>
-<p>I am currently studying Software Engineering at CodeSpace Academy and have qualifications in End User Computing, Technical              Support, and Systems Support. Alongside my IT skills,I have experience as an Artisan Welder in the automotive industry, specializing in power tools,                  electronic data capture, continuous improvement, and welding. I completed my welding qualification in 2019, which included a Welding Application and Practice  module at Tshwane North College (Rosslyn). I enjoy hands-on work and using my troubleshooting skills to solve challenges. My IT studies have prepared me for various aspects of life.</p>
+<p>I am currently studying Software Engineering at CodeSpace Academy I have learned Cascading Style Sheets(CSS), HTML and currently learning JavaScript. Additionally I have qualifications in End User Computing, Technical Support, and Systems Support. Alongside my IT skills, I enjoy hands-on work and using my troubleshooting skills to solve challenges. My IT studies have prepared me for various aspects of life.</p>
 
 <h3>🌱 I’m currently learning </h3>
 <p>JavaScript</p>
