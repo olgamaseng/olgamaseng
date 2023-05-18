@@ -13,7 +13,7 @@
  <li><p align= "left"> E-mail: masengolga@gmail.com</p></li>
   <li><p align= "left"> Contact Number: +27 81 739 4822</p></li>
 <li><p align="left">
-<a href="https://linkedin.com/in/olga-maseng-842105a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/olga-maseng-842105a3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/olga-maseng-842105a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/olga-maseng" height="30" width="40" /></a>
   </p></li>
   <ul> 
 
