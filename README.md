@@ -34,10 +34,17 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+  </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="fill: white"/>
+</a>
   <a href="https://padlet.com/masengolga/my-portfolio-hygqijhm45qgfqfn" target="_blank" rel="noreferrer">
     <img src="https://ctl.morainevalley.edu/wp-content/uploads/2013/03/padlet-slider.png" alt="Padlet" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
