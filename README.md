@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="fill: white"/>
+  <img src="https://tse2.mm.bing.net/th?id=OIP.1aFi53EQSwc0E8gqX7K9dAAAAA&pid=Api&P=0&h=220" alt="Next.js" width="40" height="40"/>
 </a>
   <a href="https://padlet.com/masengolga/my-portfolio-hygqijhm45qgfqfn" target="_blank" rel="noreferrer">
     <img src="https://ctl.morainevalley.edu/wp-content/uploads/2013/03/padlet-slider.png" alt="Padlet" width="40" height="40"/>
